@@ -3,11 +3,3 @@
 @tailwind components;
 
 @tailwind utilities;
-
-.h-half-screen {
-	height: 50vh;
-}
-
-.max-width {
-	max-width: 1120px;
-}
